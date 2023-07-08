@@ -1,1 +1,1 @@
-# Explore and implement Machine Learning algorithms and concepts from scratch. From basic to advanced.
+# Explore and implement Machine Learning algorithms and concepts From Scratch. From basics to advanced.

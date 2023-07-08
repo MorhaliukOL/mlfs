@@ -1,0 +1,22 @@
+name: mlfs
+channels:
+  - conda-forge
+  - defaults
+  
+dependencies:
+  - python=3.10
+
+  - matplotlib 
+  - seaborn
+  - plotly 
+
+  - scikit-learn 
+
+  - notebook
+  - ipywidgets
+  - ipympl
+
+  
+  - tqdm
+
+  - albumentations
